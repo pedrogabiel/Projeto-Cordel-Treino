@@ -39,6 +39,11 @@ header > p{
     padding-bottom: 50px;
 }
 
+.seta{
+    height: 30px;
+    width: 30px;
+}
+
 a{
     color: white;
     text-decoration: none;
