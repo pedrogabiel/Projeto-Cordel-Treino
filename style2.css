@@ -42,6 +42,7 @@ header > p{
 .seta{
     height: 30px;
     width: 30px;
+    margin: auto;
 }
 
 a{
